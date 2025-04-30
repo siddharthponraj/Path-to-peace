@@ -87,9 +87,6 @@ The mobile app is developed in Flutter and provides:
 - [Microsoft Azure](https://azure.microsoft.com/)
 - [Render](https://render.com/)
 
-## 🤝 Contribution
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📝 License
 
