@@ -88,6 +88,4 @@ The mobile app is developed in Flutter and provides:
 - [Render](https://render.com/)
 
 
-## 📝 License
 
-This project is licensed under the MIT License 
